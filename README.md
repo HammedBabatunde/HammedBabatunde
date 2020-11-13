@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on developing a website for upkey internship capstone.
 - 🌱 I’m currently learning python, Javascript, Machine Learning Models and Backend Web Development
 - 👯 I’m looking to collaborate on Machine Learning and Backend Web Development
 - 🤔 I’m looking for help with Machine Learnning Applications, Deep Learning and implementing machine learning into a website
