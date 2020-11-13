@@ -11,6 +11,8 @@
 - 📫 How to reach me: olawale6708@gmail.com, twitter: @dev_babs
 - 😄 Pronouns: He/his
 
+**[Nominate me as GitHub Star 🌟](https://stars.github.com/nominate/)**
+
 
 ### Languages and tools
 
