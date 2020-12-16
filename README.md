@@ -33,7 +33,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/hammed-babatunde-idris-1a2208148/ "LinkedIn")
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white "Twitter")](https://twitter.com/dev_babs "Twitter")
 
-img
+
 <!--
 **HammedBabatunde/HammedBabatunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
