@@ -3,11 +3,11 @@
 
 ### Here is what I am Working On
 
-- 🔭 I’m currently working on NaijaHacks 2020 and AfricaHacks Global Hackathon.
+- 🔭 I’m currently working at AfricaHacks
 - 🌱 I’m currently learning python, Javascript, Machine Learning Models and Backend Web Development
 - 👯 I’m looking to collaborate on Machine Learning and Backend Web Development
 - 🤔 I’m looking for help with Machine Learnning Applications, Deep Learning and implementing machine learning into a website
-- 💬 Ask me about Python, Digital Marketing, and anything about anime and electro music
+- 💬 Ask me about Python, Digital Marketing, Web Monetization and anything about anime and electro music
 - 📫 How to reach me: olawale6708@gmail.com, twitter: @dev_babs
 - 😄 Pronouns: He/his
 
