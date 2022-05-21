@@ -1,50 +1,67 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-![gitwork](https://user-images.githubusercontent.com/36210723/94987193-0053d400-056d-11eb-97d2-f0319bbe27f6.jpg)
+### Hi there I am [Babatunde]<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br/>
 
-### Here is what I am Working On
+![Twitter Followers](https://img.shields.io/twitter/follow/dev_babs?style=social)
+![Linkedin Followers](https://img.shields.io/badge/LinkedIn-1.1k-blue?style=social&logo=linkedin) ![github-sponsors](https://img.shields.io/github/sponsors/hammedbabatunde?label=GitHub%20Sponsors&style=social)
 
-- 🔭 I’m currently working at AfricaHacks
-- 🌱 I’m currently learning python, Javascript, Machine Learning Models and Backend Web Development
-- 👯 I’m looking to collaborate on Machine Learning and Backend Web Development
-- 🤔 I’m looking for help with Machine Learnning Applications, Deep Learning and implementing machine learning into a website
-- 💬 Ask me about Python, Digital Marketing, Web Monetization and anything about anime and electro music
-- 📫 How to reach me: olawale6708@gmail.com, twitter: @dev_babs
-- 😄 Pronouns: He/his
+---
 
-**[Nominate me as GitHub Star 🌟](https://stars.github.com/nominate/)**
+### Languages and tools ⚙️
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<p>
+<img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio Logo" width="50" height="50"/>
+</p>
 
 
-### Languages and tools
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Automating Data Analysis using PyAutoGUI](https://hammedbabatunde.hashnode.dev/automating-data-analysis-using-pyautogui)
+- [Monetizing Your Contents as a Content Creator](https://hammedbabatunde.hashnode.dev/monetizing-your-contents-as-a-content-creator)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="github"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<!-- BLOG-POST-LIST:END -->
+▶️ [more blog posts...](https://hammedbabatunde.hashnode.dev/)
 
-#### Find me on social media
-[![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/HammedBabatunde "Github")
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/hammed-babatunde-idris-1a2208148/ "LinkedIn")
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white "Twitter")](https://twitter.com/dev_babs "Twitter")
+---
 
+### My Github Stats 📊
+
+[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!--
+For future use
+<a href="https://www.instagram.com/hemant.gz/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://leetcode.com//">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+-->
+
+---
+
+<!-- ### ✨ My Recent Activity -->
+<!--START_SECTION:activity-->
+<!-- 1. 🗣 Commented on [#36](https://github.com/learntocloud/learn-to-cloud/issues/36) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+2. 🗣 Commented on [#39](https://github.com/learntocloud/learn-to-cloud/issues/39) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+3. ❗️ Closed issue [#38](https://github.com/learntocloud/learn-to-cloud/issues/38) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. 🗣 Commented on [#38](https://github.com/learntocloud/learn-to-cloud/issues/38) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+5. 🗣 Commented on [#38](https://github.com/learntocloud/learn-to-cloud/issues/38) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+<!--END_SECTION:activity--> -->
+
+<br/>
 
 <!--
-**HammedBabatunde/HammedBabatunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rishabkumar7/rishabkumar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on developing a website for upkey internship capstone.
-- 🌱 I’m currently learning python, Javascript, Machine Learning Models and Backend Web Development
-- 👯 I’m looking to collaborate on Machine Learning and Backend Web Development
-- 🤔 I’m looking for help with Machine Learnning Applications, Deep Learning and implementing machine learning into a website
-- 💬 Ask me about Python, Digital Marketing, and anything about anime and electro musiv
-- 📫 How to reach me: olawale6708@gmail.com, twitter: @dev_babs
-- 😄 Pronouns: He/his
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
