@@ -21,7 +21,7 @@
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://hammedbabatunde.hashnode.dev/)
 
----
+<!-- --- -->
 <!-- 
 ### My Github Stats 📊
 
@@ -49,7 +49,7 @@ For future use
 5. 🗣 Commented on [#38](https://github.com/learntocloud/learn-to-cloud/issues/38) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 <!--END_SECTION:activity--> -->
 
-<br/>
+<!-- <br/> -->
 
 <!--
 **rishabkumar7/rishabkumar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
