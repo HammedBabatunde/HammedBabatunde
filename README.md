@@ -4,9 +4,6 @@
 ### <div align="center">I'm Babatunde, a Entry level Devops Engineer👨‍💻  </div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/HammedBabatunde/github-profilinator)  
-  
-
 - 🌱 I’m currently learning Devops technologies in Azure and Machine Learning  
   
 
@@ -34,8 +31,6 @@
 </td><td valign="top" width="33%">
 
 
-
-</td><td valign="top" width="33%">
 
 
 
