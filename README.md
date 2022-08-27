@@ -1,13 +1,13 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
   
 
-### <div align="center">I'm Babatunde, an entrylevel Devops Engineer👨‍💻  </div>  
+### <div align="center">I'm Babatunde, a Devops Engineer👨‍💻  </div>  
   
 
-- 🌱 I’m currently learning Devops technologies in Azure and Machine Learning  
+- 🌱 I’m currently learning Devops technologies.  
   
 
-- ❓ Ask me about anything related to Product Management and Devops   
+- ❓ Ask me about anything related to Project Management and Devops   
   
 
 - ⚡ Fun fact: I love Anime  
