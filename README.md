@@ -1,7 +1,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
   
 
-### <div align="center">I'm Babatunde, a Devops Engineer👨‍💻  </div>  
+### <div align="center">I'm Babatunde, a DevOps Engineer👨‍💻  </div>  
   
 
 - 🌱 I’m currently learning Devops technologies.  
