@@ -1,7 +1,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
   
-
-Hi 👋 My name is Babatunde
+</br>
+My name is Babatunde
 =======================
 
 DevOps Engineer & Cloud Advocate
