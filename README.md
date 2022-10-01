@@ -1,13 +1,12 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
 
-My name is Babatunde
-=======================
 
 DevOps Engineer & Cloud Advocate
 --------------------------------------
 
 <!-- * 🌍  I'm based in Prague -->
 <!-- * 🖥️  See my portfolio at [jurkin.io](http://jurkin.io) -->
+* My name is Babatunde.
 * 🧠  I'm learning DevOps and Cloud Technologies.
 * ✉️  You can contact me at [olawale6708@gmail.com](mailto:olawale6708@gmail.com)
 * ⚡  I'm a big fan of anime.
