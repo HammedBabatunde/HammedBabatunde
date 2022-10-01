@@ -4,10 +4,10 @@
 ### <div align="center">I'm Babatunde, a DevOps Engineer👨‍💻  </div>  
   
 
-- 🌱 I’m currently learning Devops technologies.  
+- 🌱 I’m currently learning Devops and cloud technologies.
   
 
-- ❓ Ask me about anything related to Project Management and Devops   
+- ❓ Ask me about anything related to Project Management,DevOps and Open Source
   
 
 - ⚡ Fun fact: I love Anime  
