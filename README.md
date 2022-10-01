@@ -1,6 +1,5 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
-  
-</br>
+
 My name is Babatunde
 =======================
 
