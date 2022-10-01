@@ -1,17 +1,21 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
   
 
-### <div align="center">I'm Babatunde, a DevOps Engineer👨‍💻  </div>  
-  
+Hi 👋 My name is Babatunde
+=======================
 
-- 🌱 I’m currently learning Devops and cloud technologies.
-  
+DevOps Engineer & Cloud Advocate
+--------------------------------------
 
-- ❓ Ask me about anything related to Project Management,DevOps and Open Source
-  
+<!-- * 🌍  I'm based in Prague -->
+<!-- * 🖥️  See my portfolio at [jurkin.io](http://jurkin.io) -->
+* 🧠  I'm learning DevOps and Cloud Technologies.
+* ✉️  You can contact me at [olawale6708@gmail.com](mailto:olawale6708@gmail.com)
+* ⚡  I'm a big fan of anime.
 
-- ⚡ Fun fact: I love Anime  
-  
+<a href="https://www.twitter.com/dev_babs" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/dev_babs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
 <br/>  
 
